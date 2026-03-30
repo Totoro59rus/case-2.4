@@ -1,0 +1,4 @@
+/mnt/c/Users/admin/Desktop/tests/CMakeFiles/runTests.dir
+/mnt/c/Users/admin/Desktop/tests/CMakeFiles/test.dir
+/mnt/c/Users/admin/Desktop/tests/CMakeFiles/edit_cache.dir
+/mnt/c/Users/admin/Desktop/tests/CMakeFiles/rebuild_cache.dir

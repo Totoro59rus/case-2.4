@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/runTests.dir/tests/test_queue.cpp.o CMakeFiles/runTests.dir/tests/test_heap.cpp.o CMakeFiles/runTests.dir/tests/test_binary_tree.cpp.o -o runTests  -lpthread /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
